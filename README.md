@@ -14,7 +14,7 @@ AS A web development student
 - [X] I WANT a tutorial explaining a specific regex
     - [X] SO THAT I can understand the search pattern the regex defines
 
-##b Acceptance Criteria
+## Acceptance Criteria
 
 GIVEN a regex tutorial
 - [X] WHEN I open the tutorial
