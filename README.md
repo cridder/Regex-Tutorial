@@ -1,4 +1,4 @@
-# Regex Tutorial Starter Code
+# Regex Tutorial
 
 User Story
 
